@@ -2,7 +2,7 @@
 
 **FIM** is framework to approximate the continuous-time diffusion from cascade data. It is established by utilizing the continuous-time dynamical system. In this paper, **FIM** is proposed for network inference from cascades and influence estimation on the inferred networks. 
 
-This repository contains the source codes of **FIM**. For further details, please refer to our paper in **WWW 2024**. Should you encounter any issues, please reach out to Keke Huang, thanks!
+This repository contains the source codes of **FIM**. For further details, please refer to our paper in **WWW 2024** (https://arxiv.org/abs/2403.02867). Should you encounter any issues, please reach out to Keke Huang, thanks!
 
 
 
